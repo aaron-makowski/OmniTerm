@@ -1,7 +1,8 @@
 ## Omni Terminal App Store V1
-#### Most apps only work for Mac/Linux
-#### Bonus: Install Linux on Windows: 
-#### https://ubuntu.com/wsl
+
+Most apps only work for Mac/Linux
+Bonus: Install Linux on Windows: 
+https://ubuntu.com/wsl
 
 ### Usage:
   - Install the requirements: `pip install bullet rich`
