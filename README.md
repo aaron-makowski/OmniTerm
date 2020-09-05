@@ -4,14 +4,11 @@
 #### https://ubuntu.com/wsl
 
 ### Usage:
-  - `python omni.py`
-  - Select Categories to Display
-  - Hit Enter
+  - Install the requirements: `pip install bullet rich`
+  - Run the script: `python omni.py`
+  - Select categories to display
 
-### Requirements:
-  - `pip install bullet rich`
-
-### Links and descriptions sourced from:
+### Database links and descriptions sourced from:
   - https://github.com/alebcay/awesome-shell
   - https://github.com/k4m4/terminals-are-sexy
   - https://github.com/agarrharr/awesome-cli-apps
