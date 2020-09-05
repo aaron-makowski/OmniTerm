@@ -1,9 +1,15 @@
 # Omni
+## Terminal App Store V1
+### Most apps only work for Mac/Linux
+#### Bonus: Install Linux on Windows: https://ubuntu.com/wsl
 
-Terminal App Store V1
+Usage:
+  - `python omni.py`
+  - Select Categories to Display
+  - Hit Enter
 
 Requirements:
-  - pip install rich
+  - `pip install bullet rich`
 
 Links and descriptions sourced from:
   - https://github.com/alebcay/awesome-shell
