@@ -16,6 +16,7 @@
   - Install Linux on Windows: https://ubuntu.com/wsl
 
 ### To Do
+  - Make this app `pip` installable
   - Detect if app is `pip` installable
   - Get last `master` commit date
   - Get last `branch` commit date 
