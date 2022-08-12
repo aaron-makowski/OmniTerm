@@ -1,11 +1,15 @@
 ## Omni Terminal App Store V1
 
+## Demo GIF
+![fBbq5ef](https://user-images.githubusercontent.com/62376262/184451911-e4353d75-d6aa-4fb7-8f56-89bbe90b379d.gif)
+
 ### Usage:
   - Install the requirements: `pip install bullet rich`
   - Run the script: `python omni.py`
   - Select categories to display
   
 ### Notes:
+  - This app works only on Mac/Linux (`termios` lib)
   - Most apps only work for Mac/Linux
   - Install Linux on Windows: https://ubuntu.com/wsl
 
